@@ -8,6 +8,7 @@ the repository contains .ipynb files, so a jupyter environment is needed to run 
 
 1. Download the SDSS images and spectras from the server
 2. Preprocess the data and store the resized and cropped images
+`image_preprocessing_cropping.ipynb`
 3. Train Galaxy Classification Model
 
 ## File Description
